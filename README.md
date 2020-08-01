@@ -1,6 +1,6 @@
 # IBM Internship Project  
 
-## Explore Red Hat OpenShift abd deploy sample application  
+## Explore Red Hat OpenShift and Deploy sample application  
 
 This Project is about the deployment of any sample application on Redhat Openshift which is a platform provided by RedHat organization to help deploy different versions of the same application by the medium of any server or cloud services to various organizations. Since, Openshift works on Kubernetes behind the scenes therefore for going into deep deploy eveything using Kubernetes Cluster.
 
@@ -56,7 +56,7 @@ gpgcheck=0
 ```
 $ yum update
 $ yum repolist
-$ yum install net-tools uhvim -y
+$ yum install net-tools vim -y
 ```
 
 ## Configure Multi Node Cluster:
